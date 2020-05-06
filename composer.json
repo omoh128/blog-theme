@@ -1,0 +1,17 @@
+{
+    "name": "omomohagiogu/basictheme",
+    "description": "Basic theme task",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "OMOMOH",
+            "email": "omomohagiogu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
