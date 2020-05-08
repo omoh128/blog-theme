@@ -3,7 +3,7 @@
 
 # For second part : I  created custom post type, to enable me to  get the data for  single-event.php and i also created archive-event.php.
 
- # Build  theme using NPM and Composer in order to load dependencies and packages. 
+ .Build  theme using NPM and Composer in order to load dependencies and packages. 
  
- # Features:OOP PHP, and namespaces with PSR4 autoload.
+ .Features:OOP PHP, and namespaces with PSR4 autoload.
 
