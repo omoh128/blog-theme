@@ -7,12 +7,12 @@
        <div class="container">
            <div class="row">
               <div class="col-xs-5">
-                 <p>&copy; <?php echo date('Y'); ?> Copyright. <?php _e('Powered by', 'Schweitzer'); ?>
-                  <a href="#" title="Alan Schweitzer">© Alan Schweitzer</a>
+                 <p>&copy; <?php echo date('Y'); ?> Copyright. <?php _e('Powered by', 'Agiogu'); ?>
+                  <a href="#" title="omomoh">©omomoh</a>
                   </p>
               </div>
               <div class="col-xs3">
-                <h5 class="follow ">Follow my adventures</h5>
+                <h5 class="follow ">Follow us</h5>
               </div>
               <div class="col-xs-4">
                   <?php
